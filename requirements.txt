@@ -1,0 +1,9 @@
+typer[all]
+textual
+sentence-transformers
+langchain
+qdrant-client
+unstructured
+python-docx
+pandas
+requests
